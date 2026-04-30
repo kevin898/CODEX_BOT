@@ -4,5 +4,5 @@ Core Logic:
 Liquidity → Sweep → Reclaim → Structure Shift
 Rule:
 - Missing 1 = NO TRADE
-- Risk max 10%
+- Risk max 1%
 - RR >= 1:2
